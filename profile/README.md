@@ -12,6 +12,12 @@ Welcome to **HumemAI**! 🚀 This AI project, inspired by human memory and built
 - **🤝 AI Integration**: By combining symbolic AI with neural networks, HumemAI learns, stores, and retrieves information, mirroring human cognitive processes.
 - **💡 Empathy & Curiosity**: The AI is designed to understand emotions and explore its environment, enhancing its interaction with humans.
 
+## Research and Development
+
+- The research and development of HumemAI is in public.
+- See [our GitHub project](https://github.com/orgs/humemai/projects/2) to learn more.
+    - Feel free to make contributions. 
+
 ## 🌍 Join Us
 
 Explore the future of AI with HumemAI. Visit [HumemAI](https://humem.ai/) to learn more.
