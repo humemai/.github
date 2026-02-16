@@ -15,8 +15,6 @@ Welcome to **HumemAI**! 🚀 This AI project, inspired by human memory and built
 ## Research and Development
 
 - The research and development of HumemAI is in public.
-- See [our GitHub project](https://github.com/orgs/humemai/projects/2) to learn more.
-    - Feel free to make contributions. 
 
 ## 🌍 Join Us
 
