@@ -29,4 +29,4 @@ The code behind each paper:
 
 ## Links
 
-[humem.ai](https://humem.ai) · [docs.humem.ai](https://docs.humem.ai) · [PyPI](https://pypi.org/org/HumemAI/) · info@humem.ai
+[humem.ai](https://humem.ai) · [docs.humem.ai](https://docs.humem.ai) · [PyPI](https://pypi.org/user/humemai/) · info@humem.ai
